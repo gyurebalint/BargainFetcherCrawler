@@ -4,4 +4,4 @@ This is a crawler which gathers information about products from major Hungarian 
 Will list more webshops as I go on.
 I'm using my API (project: BargainFetcherWebApi) to POST these products into my database. <br>
 
-Net Core app
+Net Core app, OData urls, Abstract class templates, in the future Factory Method design pattern
